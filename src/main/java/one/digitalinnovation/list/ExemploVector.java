@@ -25,7 +25,7 @@ public class ExemploVector {
         esportes.remove("Handebol");
 
         System.out.println(esportes);
-        
+
         // Retorna o primeiro item do vetor
         System.out.println(esportes.get(0));
 
